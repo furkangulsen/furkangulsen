@@ -13,8 +13,9 @@ In addition, I enjoy working on **artificial intelligence projects**, integratin
 I'm passionate about combining hardware and software, leveraging **deep technical expertise** throughout the entire development process.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkangulsen&show_icons=true&locale=en&layout=compact&count_private=true" alt="furkangulsen" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkangulsen&layout=pie&count_private=true&include_all_commits=true&show_icons=true&langs_count=6&theme=radical" alt="furkangulsen" />
 </p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=furkangulsen&label=Profile%20views&color=0e75b6&style=flat" alt="furkangulsen" />
 </p>
